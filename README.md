@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on ... an open source project
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Soft Skills
-- 📫 How to reach me: ... LinkedIn (https://www.linkedin.com/in/shubham-das-235995219/)
+- 📫 How to reach me: ... LinkedIn (https://www.linkedin.com/in/shubham-das-coder/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love to learn new things and I am a keen learner
 <!--
